@@ -1,0 +1,25 @@
+#first {
+  background-color: gray;
+  height: 500px;
+  margin: -55px !important;
+  text-align: center;
+}
+
+#second {
+  text-align: center;
+}
+
+#third {
+  text-align: center;
+}
+
+#fourth {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+#fifth {
+  text-align: center;
+  background-color: #eee;
+}

@@ -1,0 +1,69 @@
+#main h1 {
+  color: white;
+  text-align: center;
+  margin: 0 50px 0 0;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-style: italic;
+  font-size: 70px;
+}
+
+#navbar-collapse a {
+  color: brown;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-style: italic;
+  font-size: 20px;
+}
+#hero3 {
+  margin: 350px auto;
+  color: black;
+  text-align: center;
+  background-color: white;
+  width: max-content;
+  height: 200px;
+}
+#contact {
+  margin: -20px !important;
+  text-align: center;
+  background-color: #eee;
+}
+#contact img {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+#contact h2 {
+  color: brown;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-style: italic;
+  font-size: 30px;
+}
+
+#phone {
+  background-color: white;
+  color: black;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+#phone {
+  background-color: #eee;
+}
+#phone span {
+  color: brown;
+}
+
+#commune h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  font-size: 30px;
+}
+
+#commune h4 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+#sending {
+}
+/*footer*/
+#main-footer {
+  color: black;
+  text-align: center;
+}
